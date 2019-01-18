@@ -1,0 +1,12 @@
+title: Hawai'i Monitoring and Reporting Collaborative
+author: fishymary & chelsie12
+description: > # this means to ignore newlines until "baseurl:"
+  The goal of HIMARC is to promote a collaborative approach to using science to support nearshore marine management in Hawai'i. 
+  HIMARC maintains and updates a database that synthesizes survey data across different organizations. 
+  This database has been used in the Ocean Tipping Points project and is currently being used to help inform the Aloha+ Challenge marine initiative to sustainably manage 30% of Hawai'i's nearshore resources by 2030.
+# social links
+twitter_username: CWCounsell
+
+show_excerpts: true # set to false to remove excerpts on the homepage
+
+theme: jekyll-theme-cayman
